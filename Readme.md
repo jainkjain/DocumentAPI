@@ -51,7 +51,7 @@ The project follows a architecture with the following components:
 
 1. Clone the repository:
     ```sh
-    git clone  
+    git clone https://github.com/jainkjain/DocumentAPI.git
     ```
 
 2. Restore the dependencies and build the solution:
