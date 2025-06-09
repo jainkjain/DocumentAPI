@@ -1,0 +1,15 @@
+D:\Projects\DocumentMgmt\Document.Infrastructure\bin\Debug\net8.0\Document.Infrastructure.deps.json
+D:\Projects\DocumentMgmt\Document.Infrastructure\bin\Debug\net8.0\Document.Infrastructure.dll
+D:\Projects\DocumentMgmt\Document.Infrastructure\bin\Debug\net8.0\Document.Infrastructure.pdb
+D:\Projects\DocumentMgmt\Document.Infrastructure\bin\Debug\net8.0\Document.Domain.dll
+D:\Projects\DocumentMgmt\Document.Infrastructure\bin\Debug\net8.0\Document.Domain.pdb
+D:\Projects\DocumentMgmt\Document.Infrastructure\obj\Debug\net8.0\Document.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\DocumentMgmt\Document.Infrastructure\obj\Debug\net8.0\Document.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DocumentMgmt\Document.Infrastructure\obj\Debug\net8.0\Document.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\DocumentMgmt\Document.Infrastructure\obj\Debug\net8.0\Document.Infrastructure.AssemblyInfo.cs
+D:\Projects\DocumentMgmt\Document.Infrastructure\obj\Debug\net8.0\Document.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\DocumentMgmt\Document.Infrastructure\obj\Debug\net8.0\Document.A531C859.Up2Date
+D:\Projects\DocumentMgmt\Document.Infrastructure\obj\Debug\net8.0\Document.Infrastructure.dll
+D:\Projects\DocumentMgmt\Document.Infrastructure\obj\Debug\net8.0\refint\Document.Infrastructure.dll
+D:\Projects\DocumentMgmt\Document.Infrastructure\obj\Debug\net8.0\Document.Infrastructure.pdb
+D:\Projects\DocumentMgmt\Document.Infrastructure\obj\Debug\net8.0\ref\Document.Infrastructure.dll

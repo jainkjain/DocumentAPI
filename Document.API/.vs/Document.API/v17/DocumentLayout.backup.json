@@ -1,0 +1,519 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\DocumentMgmt\\Document.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{900CABC1-A4EC-44DE-946A-ABD891D39AA3}|..\\UserManagement.Tests\\UserManagement.Tests.csproj|d:\\projects\\documentmgmt\\usermanagement.tests\\services\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4A1268-3B38-42FA-83D3-BA458FAE5B44}|Document.API.csproj|d:\\projects\\documentmgmt\\document.api\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4A1268-3B38-42FA-83D3-BA458FAE5B44}|Document.API.csproj|solutionrelative:controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4A1268-3B38-42FA-83D3-BA458FAE5B44}|Document.API.csproj|d:\\projects\\documentmgmt\\document.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4A1268-3B38-42FA-83D3-BA458FAE5B44}|Document.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F0CCE3-A20F-4C9B-8D53-363E62E73B8A}|..\\Document.Application\\Document.Application.csproj|d:\\projects\\documentmgmt\\document.application\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F0CCE3-A20F-4C9B-8D53-363E62E73B8A}|..\\Document.Application\\Document.Application.csproj|d:\\projects\\documentmgmt\\document.application\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4A1268-3B38-42FA-83D3-BA458FAE5B44}|Document.API.csproj|d:\\projects\\documentmgmt\\document.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4A1268-3B38-42FA-83D3-BA458FAE5B44}|Document.API.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657ADC5-6C3D-4DD4-A63B-7779B2FD1FD5}|..\\Document.Infrastructure\\Document.Infrastructure.csproj|d:\\projects\\documentmgmt\\document.infrastructure\\migrations\\20250608095535_document.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657ADC5-6C3D-4DD4-A63B-7779B2FD1FD5}|..\\Document.Infrastructure\\Document.Infrastructure.csproj|d:\\projects\\documentmgmt\\document.infrastructure\\migrations\\20250608095535_document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657ADC5-6C3D-4DD4-A63B-7779B2FD1FD5}|..\\Document.Infrastructure\\Document.Infrastructure.csproj|d:\\projects\\documentmgmt\\document.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657ADC5-6C3D-4DD4-A63B-7779B2FD1FD5}|..\\Document.Infrastructure\\Document.Infrastructure.csproj|d:\\projects\\documentmgmt\\document.infrastructure\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B42A4-3D2A-47EA-BDBF-148D19486209}|..\\Document.Domain\\Document.Domain.csproj|d:\\projects\\documentmgmt\\document.domain\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657ADC5-6C3D-4DD4-A63B-7779B2FD1FD5}|..\\Document.Infrastructure\\Document.Infrastructure.csproj|d:\\projects\\documentmgmt\\document.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4A1268-3B38-42FA-83D3-BA458FAE5B44}|Document.API.csproj|d:\\projects\\documentmgmt\\document.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C4A1268-3B38-42FA-83D3-BA458FAE5B44}|Document.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\scripts\\db.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\dto\\assignroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\helper\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\repository\\userrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\repository\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64AAB-1012-496A-BDC9-21CE48169C79}|..\\UserManagement.API\\UserManagement.API.csproj|d:\\projects\\documentmgmt\\usermanagement.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B42A4-3D2A-47EA-BDBF-148D19486209}|..\\Document.Domain\\Document.Domain.csproj|d:\\projects\\documentmgmt\\document.domain\\model\\documentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.Application\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "..\\Document.Application\\IDocumentService.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.Application\\IDocumentService.cs",
+              "RelativeToolTip": "..\\Document.Application\\IDocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:53:20.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.API\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentController.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.API\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "Controllers\\DocumentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:52:51.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.Application\\DocumentService.cs",
+              "RelativeDocumentMoniker": "..\\Document.Application\\DocumentService.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.Application\\DocumentService.cs",
+              "RelativeToolTip": "..\\Document.Application\\DocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T10:09:27.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAD4vx8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T04:50:19.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.Tests\\Services\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.Tests\\Services\\AuthServiceTests.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.Tests\\Services\\AuthServiceTests.cs",
+              "RelativeToolTip": "..\\UserManagement.Tests\\Services\\AuthServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:49:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Services\\IAuthService.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:07:06.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:10:36.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:52:01.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250608095535_Document.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.Infrastructure\\Migrations\\20250608095535_Document.cs",
+              "RelativeDocumentMoniker": "..\\Document.Infrastructure\\Migrations\\20250608095535_Document.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.Infrastructure\\Migrations\\20250608095535_Document.cs",
+              "RelativeToolTip": "..\\Document.Infrastructure\\Migrations\\20250608095535_Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:50:59.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Document.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Document.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T06:08:55.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.Domain\\Entities\\Document.cs",
+              "RelativeDocumentMoniker": "..\\Document.Domain\\Entities\\Document.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.Domain\\Entities\\Document.cs",
+              "RelativeToolTip": "..\\Document.Domain\\Entities\\Document.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:48:01.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250608095535_Document.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.Infrastructure\\Migrations\\20250608095535_Document.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Document.Infrastructure\\Migrations\\20250608095535_Document.Designer.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.Infrastructure\\Migrations\\20250608095535_Document.Designer.cs",
+              "RelativeToolTip": "..\\Document.Infrastructure\\Migrations\\20250608095535_Document.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T10:00:29.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocumentRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.Infrastructure\\Repositories\\DocumentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Document.Infrastructure\\Repositories\\DocumentRepository.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.Infrastructure\\Repositories\\DocumentRepository.cs",
+              "RelativeToolTip": "..\\Document.Infrastructure\\Repositories\\DocumentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:47:14.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\Document.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\Document.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:56:17.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Program.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Program.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:58:56.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:27:41.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:40:07.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-08T08:45:47.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Helper\\Role.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Helper\\Role.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Helper\\Role.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\Helper\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:39:01.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\WeatherForecast.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:11:53.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "db.txt",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Scripts\\db.txt",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Scripts\\db.txt",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Scripts\\db.txt",
+              "RelativeToolTip": "..\\UserManagement.API\\Scripts\\db.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-07T14:12:25.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:12:38.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssignRoleDto.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\DTO\\AssignRoleDto.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\DTO\\AssignRoleDto.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\DTO\\AssignRoleDto.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\DTO\\AssignRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:39:34.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\DTO\\LoginDto.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:39:36.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\DTO\\RegisterDto.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:39:36.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\appsettings.json",
+              "RelativeToolTip": "..\\UserManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T05:01:43.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:08:27.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:12:51.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRoleRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Repository\\UserRoleRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Repository\\UserRoleRepository.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Repository\\UserRoleRepository.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\Repository\\UserRoleRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:45:44.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserRoleRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Repository\\IUserRoleRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Repository\\IUserRoleRepository.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Repository\\IUserRoleRepository.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\Repository\\IUserRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:12:38.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.API\\Entities\\User.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\UserManagement.API\\Entities\\User.cs",
+              "RelativeToolTip": "..\\UserManagement.API\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T10:17:42.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DocumentModel.cs",
+              "DocumentMoniker": "D:\\Projects\\DocumentMgmt\\Document.Domain\\Model\\DocumentModel.cs",
+              "RelativeDocumentMoniker": "..\\Document.Domain\\Model\\DocumentModel.cs",
+              "ToolTip": "D:\\Projects\\DocumentMgmt\\Document.Domain\\Model\\DocumentModel.cs",
+              "RelativeToolTip": "..\\Document.Domain\\Model\\DocumentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:25:00.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
